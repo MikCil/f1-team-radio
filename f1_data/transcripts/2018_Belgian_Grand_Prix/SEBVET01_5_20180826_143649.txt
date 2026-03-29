@@ -1,0 +1,1 @@
+ And on to the grid. Encode the car, copy to the grid.

@@ -1,0 +1,1 @@
+ Lando, for turn seven consider left hand paddle as well if it will help.

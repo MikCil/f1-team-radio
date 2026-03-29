@@ -1,0 +1,1 @@
+ And Lando, we have been receiving incorrect blue flag messages, so obey my command on blue flags, not the lights on the dash.

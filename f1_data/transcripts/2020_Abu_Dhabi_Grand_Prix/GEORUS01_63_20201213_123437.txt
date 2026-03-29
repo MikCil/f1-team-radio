@@ -1,0 +1,1 @@
+ Is it call for car turn 19? Push till 19, then calling from 19, yep.

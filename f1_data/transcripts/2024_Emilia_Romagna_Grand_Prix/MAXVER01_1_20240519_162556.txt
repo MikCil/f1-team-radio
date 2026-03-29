@@ -1,0 +1,1 @@
+ Battery at the moment is up to you. If we want to top up the battery, it'll be mode 7 max, but you will clip more in mode 7.

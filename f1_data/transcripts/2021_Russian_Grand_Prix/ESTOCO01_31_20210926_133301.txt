@@ -1,0 +1,1 @@
+ Okay, so that lap time is to protect against cars that haven't stopped yet, so we're looking for high 41 lap times.

@@ -1,0 +1,1 @@
+ Recommendation on restart be 55 BMIG2 and we'd use Strap Mode 10, deploy a bit more energy.

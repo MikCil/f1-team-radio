@@ -1,0 +1,1 @@
+ So, anti-stall issue was upshift at low RPM with low throttle.

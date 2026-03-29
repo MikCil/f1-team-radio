@@ -1,0 +1,1 @@
+ Cap to first tapping behind 1.1. Don't lose time.

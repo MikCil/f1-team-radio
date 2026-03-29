@@ -1,0 +1,1 @@
+ So, compared to Synth, we are faster everywhere except turns 8 and 9, losing a run of 10.

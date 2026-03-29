@@ -1,0 +1,1 @@
+ Why are my switches changing on their own? My diff mids freaking out. Okay, just check your B with this chain, well, it's latched.

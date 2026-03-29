@@ -1,0 +1,1 @@
+ Mode 10, so break by SoftSetMax and display 8 when you can.

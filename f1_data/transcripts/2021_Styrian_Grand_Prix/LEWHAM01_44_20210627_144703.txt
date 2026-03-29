@@ -1,0 +1,1 @@
+ How do I reset my dash? Delta. Standby. And notice if you go chassis default 00, that will reset your dash. Chassis 00.

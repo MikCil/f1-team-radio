@@ -1,0 +1,1 @@
+ So we're just unsafe by 0.5, but the gap is bouncing around, so just head down, put some lap times in.

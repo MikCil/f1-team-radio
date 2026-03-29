@@ -1,0 +1,1 @@
+ Currently, track temp reading 39, but still moving up and down with the cloud colour. Wind direction is still that headwind. It's turn one, so, same as quality.
