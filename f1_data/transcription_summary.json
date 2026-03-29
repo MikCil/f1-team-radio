@@ -1,0 +1,148 @@
+{
+  "2018_Australian_Grand_Prix": {
+    "date": "2018-03-25",
+    "race_name": "Australian Grand Prix",
+    "transcriptions": [
+      {
+        "racing_number": "7",
+        "utc_time": "2018-03-25T05:09:51.369Z",
+        "audio_file": "f1_data/audio\\2018_Australian_Grand_Prix\\KIMRAI01_7_20180325_160937.mp3",
+        "transcription_file": "f1_data/transcriptions\\2018_Australian_Grand_Prix\\KIMRAI01_7_20180325_160937.json",
+        "text": "Final reminder, speed limiter off, formation starts with two reds, remind lap mode race and K2 on after the burnout and race start with two reds."
+      },
+      {
+        "racing_number": "44",
+        "utc_time": "2018-03-25T05:14:05.847Z",
+        "audio_file": "f1_data/audio\\2018_Australian_Grand_Prix\\LEWHAM01_44_20180325_161400.mp3",
+        "transcription_file": "f1_data/transcriptions\\2018_Australian_Grand_Prix\\LEWHAM01_44_20180325_161400.json",
+        "text": "And you have the overtake available button available."
+      },
+      {
+        "racing_number": "28",
+        "utc_time": "2018-03-25T05:14:31.022Z",
+        "audio_file": "f1_data/audio\\2018_Australian_Grand_Prix\\BREHAR01_28_20180325_161424.mp3",
+        "transcription_file": "f1_data/transcriptions\\2018_Australian_Grand_Prix\\BREHAR01_28_20180325_161424.json",
+        "text": "I need to box!"
+      },
+      {
+        "racing_number": "28",
+        "utc_time": "2018-03-25T05:14:51.85Z",
+        "audio_file": "f1_data/audio\\2018_Australian_Grand_Prix\\BREHAR01_28_20180325_161445.mp3",
+        "transcription_file": "f1_data/transcriptions\\2018_Australian_Grand_Prix\\BREHAR01_28_20180325_161445.json",
+        "text": "Box, Brendan, box, box."
+      },
+      {
+        "racing_number": "28",
+        "utc_time": "2018-03-25T05:15:43.088Z",
+        "audio_file": "f1_data/audio\\2018_Australian_Grand_Prix\\BREHAR01_28_20180325_161536.mp3",
+        "transcription_file": "f1_data/transcriptions\\2018_Australian_Grand_Prix\\BREHAR01_28_20180325_161536.json",
+        "text": "Okay, Brennan, we've got to make this work now."
+      },
+      {
+        "racing_number": "33",
+        "utc_time": "2018-03-25T05:16:48.186Z",
+        "audio_file": "f1_data/audio\\2018_Australian_Grand_Prix\\MAXVER01_33_20180325_161638.mp3",
+        "transcription_file": "f1_data/transcriptions\\2018_Australian_Grand_Prix\\MAXVER01_33_20180325_161638.json",
+        "text": "Mode 7 and overtake if you need it. DRS enabled."
+      },
+      {
+        "racing_number": "27",
+        "utc_time": "2018-03-25T05:17:55.597Z",
+        "audio_file": "f1_data/audio\\2018_Australian_Grand_Prix\\NICHUL01_27_20180325_161747.mp3",
+        "transcription_file": "f1_data/transcriptions\\2018_Australian_Grand_Prix\\NICHUL01_27_20180325_161747.json",
+        "text": "We could go quick here now, but just traffic."
+      },
+      {
+        "racing_number": "11",
+        "utc_time": "2018-03-25T05:19:05.695Z",
+        "audio_file": "f1_data/audio\\2018_Australian_Grand_Prix\\SERPER01_11_20180325_161855.mp3",
+        "transcription_file": "f1_data/transcriptions\\2018_Australian_Grand_Prix\\SERPER01_11_20180325_161855.json",
+        "text": "Rear left temperature is now approaching our comfortable maximum. Rear left temp."
+      },
+      {
+        "racing_number": "14",
+        "utc_time": "2018-03-25T05:21:48.773Z",
+        "audio_file": "f1_data/audio\\2018_Australian_Grand_Prix\\FERALO01_14_20180325_162140.mp3",
+        "transcription_file": "f1_data/transcriptions\\2018_Australian_Grand_Prix\\FERALO01_14_20180325_162140.json",
+        "text": "Okay mate, struggling with the grip, we'll back off a little bit. All fine."
+      },
+      {
+        "racing_number": "9",
+        "utc_time": "2018-03-25T05:22:56.487Z",
+        "audio_file": "f1_data/audio\\2018_Australian_Grand_Prix\\MARERI01_9_20180325_162242.mp3",
+        "transcription_file": "f1_data/transcriptions\\2018_Australian_Grand_Prix\\MARERI01_9_20180325_162242.json",
+        "text": "I'm not sure what to do. I'm just proud of seeing. Okay, stand by."
+      },
+      {
+        "racing_number": "7",
+        "utc_time": "2018-03-25T05:27:43.498Z",
+        "audio_file": "f1_data/audio\\2018_Australian_Grand_Prix\\KIMRAI01_7_20180325_162733.mp3",
+        "transcription_file": "f1_data/transcriptions\\2018_Australian_Grand_Prix\\KIMRAI01_7_20180325_162733.json",
+        "text": "Engine five, Kimi, engine five. Try to close, try to close."
+      },
+      {
+        "racing_number": "33",
+        "utc_time": "2018-03-25T05:28:12.204Z",
+        "audio_file": "f1_data/audio\\2018_Australian_Grand_Prix\\MAXVER01_33_20180325_162805.mp3",
+        "transcription_file": "f1_data/transcriptions\\2018_Australian_Grand_Prix\\MAXVER01_33_20180325_162805.json",
+        "text": "Hello K-Max. Yep."
+      },
+      {
+        "racing_number": "44",
+        "utc_time": "2018-03-25T05:30:55.348Z",
+        "audio_file": "f1_data/audio\\2018_Australian_Grand_Prix\\LEWHAM01_44_20180325_163047.mp3",
+        "transcription_file": "f1_data/transcriptions\\2018_Australian_Grand_Prix\\LEWHAM01_44_20180325_163047.json",
+        "text": "So if you go menu-position2, menu-position2, when you can."
+      },
+      {
+        "racing_number": "14",
+        "utc_time": "2018-03-25T05:32:34.353Z",
+        "audio_file": "f1_data/audio\\2018_Australian_Grand_Prix\\FERALO01_14_20180325_163217.mp3",
+        "transcription_file": "f1_data/transcriptions\\2018_Australian_Grand_Prix\\FERALO01_14_20180325_163217.json",
+        "text": "It's very, very difficult to follow. So think about the strategy. Following is very difficult. Yes, Fernando, so far there's only been one overtake Bottas on Ocon."
+      },
+      {
+        "racing_number": "33",
+        "utc_time": "2018-03-25T05:33:59.63Z",
+        "audio_file": "f1_data/audio\\2018_Australian_Grand_Prix\\MAXVER01_33_20180325_163337.mp3",
+        "transcription_file": "f1_data/transcriptions\\2018_Australian_Grand_Prix\\MAXVER01_33_20180325_163337.json",
+        "text": "Okay, Max, can we have a status update please? Yeah, the rear tires are getting really hot, that's a bit my problem. I have to close all the tools. And can I have a prompting update when you can? Yeah, a little bit less, half a degree or something. Understood."
+      },
+      {
+        "racing_number": "14",
+        "utc_time": "2018-03-25T05:34:35.102Z",
+        "audio_file": "f1_data/audio\\2018_Australian_Grand_Prix\\FERALO01_14_20180325_163419.mp3",
+        "transcription_file": "f1_data/transcriptions\\2018_Australian_Grand_Prix\\FERALO01_14_20180325_163419.json",
+        "text": "I cannot see the pit door. Hold for another three seconds maybe. Tires are okay. From left, giving up a little bit, but all under control."
+      },
+      {
+        "racing_number": "3",
+        "utc_time": "2018-03-25T05:36:11.539Z",
+        "audio_file": "f1_data/audio\\2018_Australian_Grand_Prix\\DANRIC01_3_20180325_163600.mp3",
+        "transcription_file": "f1_data/transcriptions\\2018_Australian_Grand_Prix\\DANRIC01_3_20180325_163600.json",
+        "text": "What about a different plan? Not the original. How does that look?"
+      },
+      {
+        "racing_number": "31",
+        "utc_time": "2018-03-25T05:36:54.225Z",
+        "audio_file": "f1_data/audio\\2018_Australian_Grand_Prix\\ESTOCO01_31_20180325_163642.mp3",
+        "transcription_file": "f1_data/transcriptions\\2018_Australian_Grand_Prix\\ESTOCO01_31_20180325_163642.json",
+        "text": "Sorry Esteban, balanced feedback, how is it going? It's going a bit towards the oversteer and entry but it's okay."
+      },
+      {
+        "racing_number": "18",
+        "utc_time": "2018-03-25T05:38:43.605Z",
+        "audio_file": "f1_data/audio\\2018_Australian_Grand_Prix\\LANSTR01_18_20180325_163831.mp3",
+        "transcription_file": "f1_data/transcriptions\\2018_Australian_Grand_Prix\\LANSTR01_18_20180325_163831.json",
+        "text": "Leclerc is closing on you, huh? Okay, but I'm circling fast with the oversteer."
+      },
+      {
+        "racing_number": "33",
+        "utc_time": "2018-03-25T05:39:11.65Z",
+        "audio_file": "f1_data/audio\\2018_Australian_Grand_Prix\\MAXVER01_33_20180325_163900.mp3",
+        "transcription_file": "f1_data/transcriptions\\2018_Australian_Grand_Prix\\MAXVER01_33_20180325_163900.json",
+        "text": "Okay, so we've got reports of Holcomb complaining about his tyres. For your reference, Daniel managed to pass into 13."
+      }
+    ]
+  }
+}
